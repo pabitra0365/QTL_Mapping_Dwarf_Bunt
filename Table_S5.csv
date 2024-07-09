@@ -1,0 +1,33 @@
+﻿Table S5: KASP markers developed  from the identified QTL intervals polymorphic between two parent.,,,,
+KASP_name,QTL,Position (bp),Probe,Primer sequence
+,,,,
+BobWhite_c13435_700 (IWB505),QDB.ssdhui-6DL,492558565,FAM,GAAGGTGACCAAGTTCATGCTtccggtatgaacagttcgttC
+,,,HEX,GAAGGTCGGAGTCAACGGATTtccggtatgaacagttcgttT
+,,,Common,accaaccttttgtacgtagca
+,,,,
+wsnp_Ex_c31584_40355363 (IWA3350),QDB.ssdhui-6DL,492566527,FAM,GAAGGTGACCAAGTTCATGCTgaaacacacgtgacatggaaT
+,,,HEX,GAAGGTCGGAGTCAACGGATTgaaacacacgtgacatggaaC
+,,,Common,tgatgaggacttccgtgaaaatt
+,,,,
+CAP7_c2559_543  (IWB13935),QDB.ssdhui-6DL,492567711,FAM,GAAGGTGACCAAGTTCATGCTgccggcagtgccgaggaT
+,,,HEX,GAAGGTCGGAGTCAACGGATTgccggcagtgccgaggaC
+,,,Common,gccggtaactactagcgtgg
+,,,,
+BS00022481_51 (IWB7108),QDB.ssdhui-6DS,1404217,FAM,GAAGGTGACCAAGTTCATGCTcaaggcccttatctacgagtttA
+,,,HEX,GAAGGTCGGAGTCAACGGATTcaaggcccttatctacgagtttC
+,,,Common,tggtgcagccatttgtcC
+,,,,
+BS00075409_51(IWB10804),QDB.ssdhui-6DS,1405900,FAM,GAAGGTGACCAAGTTCATGCTgggccttccagttcattgtA
+,,,HEX,GAAGGTCGGAGTCAACGGATTgggccttccagttcattgtG
+,,,Common,gttgctccatgtccttagcg
+,,,,
+wsnp_Ex_c18664_27540364(IWA2338),QDB.ssdhui-6DS,1759401,FAM,GAAGGTGACCAAGTTCATGCTtcagttcaccctcaacttaccA
+,,,HEX,GAAGGTCGGAGTCAACGGATTtcagttcaccctcaacttaccG
+,,,Common,cagacggcaatcttggaa
+,,,,
+Excalibur_c52276_176 (IWB27307),QDB.ssdhui-6DS,2151299,FAM,GAAGGTGACCAAGTTCATGCTgccacttatttAatccagcTggT
+,,,HEX,GAAGGTCGGAGTCAACGGATTgccacttatttAatccagcTggC
+,,,Common,gtactacaaccgcgccagat
+,,,,
+,,,,
+Note: Yellow highlighted KASP markers were used to show QTL effect on SSDH population and Validation population,,,,
